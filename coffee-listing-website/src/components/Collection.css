@@ -1,0 +1,85 @@
+.main {
+    box-sizing: border-box;
+    color: #fff;
+    padding: 20px;
+    max-width: 400px;
+}
+
+.imageWrapper {
+    position: relative;
+    width: 100%;
+}
+
+
+.imageWrapper img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+}
+
+.imageWrapper h2 {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    color: #000;
+    background-color: #F6C768;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+.descripition {
+    display: flex;
+    justify-content: space-between;
+}
+
+.descripition h2:first-child {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Outfit', sans-serif;
+}
+
+.descripition h2:last-child {
+    font-size: 12px;
+    background-color: #BEE3CC;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #000;
+}
+
+.ratingIfo {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.ratingIfo p {
+    font-size: 12px;
+}
+
+.voteInfo {
+    display: flex;
+}
+
+.voteInfo img {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    object-fit: contain;
+}
+
+
+.voteInfo p {
+    font-size: 10px;
+    color: #6F757C;
+}
+
+@media (max-width: 630px) {
+ .main {
+   
+    padding: 10px;
+    max-width: 300px;
+}
+
+}
