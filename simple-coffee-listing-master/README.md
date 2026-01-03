@@ -11,7 +11,6 @@ Welcome to this responsive web coding challenge.
 **Suggested Skills to practice: HTML and CSS**
 
 ## The challenge
-
 Your task is to create a web page that closely resembles the provided design.
 
 You can use any tools or resources you like to complete this challenge. Each challenge is designed to practice different skills, so be sure to check the challenge description for more information.
@@ -22,7 +21,7 @@ If you need help or have any questions, feel free to [join our community](https:
 
 Your goal is to build the project using the provided design. You can find the designs in the challenge editor once you start the challenge or in the `/design` folder. Please note that the `/design` folder may not include all the designs you need, so be sure to check the editor for more details.
 
-The designs are in JPG format, so you'll need to use your best judgment for styles such as `font-size`, `padding`, and `margin`. Additionally, spacing guides are available for each challenge, but access to them requires a [Pro membership](https://devchallenges.io/pro). With a Pro membership, you can also download the Figma design files.
+The designs are in JPG format, so you'll need to use your best judgment for styles such as `font-size`, `padding`, and `margin`. Additionally, spacing guides are available for each challenge, but access to them requires a [Pro membership](https://devchallenges.io/pro). With a Pro membership, you can also download the Figma design files.11
 
 All the required assets can be found in the `/resources` folder. You may need to optimize the assets as necessary.
 
